@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ricardo0965/Fugue/_apis/build/status/ricardofugue.pipelines-java?branchName=master)](https://dev.azure.com/ricardo0965/Fugue/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
